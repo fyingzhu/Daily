@@ -30,3 +30,6 @@ Learning note
 
 
 docker
+
+pycharm使用
+钢铁大数据论文
