@@ -33,3 +33,12 @@ docker
 
 pycharm使用
 钢铁大数据论文
+
+cisdi一年中可做的事情：
+- 黑客马拉松
+- 赛迪英语
+
+本钢项目技能储备：
+- linux：《鸟哥的私房菜（基础篇）》
+- mongodb:《mongodb实战》、mongodb University
+
