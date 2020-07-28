@@ -42,3 +42,4 @@ cisdi一年中可做的事情：
 - linux：《鸟哥的私房菜（基础篇）》
 - mongodb:《mongodb实战》、mongodb University
 
+副业从三方面入手：时间、信息差、特长
